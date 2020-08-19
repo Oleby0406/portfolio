@@ -24,7 +24,7 @@
 }
 
 .header {
-  padding-top: 300px;
+  padding-top: 20%;
   width:100%;
   height:100vh;
   text-align: center;
@@ -37,6 +37,10 @@
 
 .aboutme {
   overflow: hidden;
+}
+
+#about-me-par-2 {
+  padding-top: 5%;
 }
 
 .main {
