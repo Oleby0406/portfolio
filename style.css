@@ -39,6 +39,10 @@
   overflow: hidden;
 }
 
+.projects {
+  overflow-x: hidden;
+}
+
 .main {
   padding-left: 175px;
   padding-right: 200px;
